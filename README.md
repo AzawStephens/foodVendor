@@ -14,4 +14,4 @@ Mark page structures with sectioning elements,
 Organize page content with grouping elements,
 Mark content with text-level elements,
 Insert inline images,
-and insert symbols based on character codes
+and insert symbols based on character codes.
